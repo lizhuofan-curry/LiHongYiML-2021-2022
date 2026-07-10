@@ -7,6 +7,28 @@
 
 > 本仓库是个人学习归档，并非课程官方仓库。课程安排与资料版本请以课程主页为准。
 
+## 快速跳转
+
+**页面导航：** [课程资料](#课程资料) · [资料说明](#资料说明) · [Git LFS](#git-lfs) · [版权说明](#版权说明) · [致谢](#致谢)
+
+**讲义目录：**
+[Lecture 01](./lectures/Lecture%2001/) ·
+[Lecture 02](./lectures/Lecture%2002/) ·
+[Lecture 03](./lectures/Lecture%2003/) ·
+Lecture 04（无课件） ·
+[Lecture 05](./lectures/Lecture%2005/) ·
+[Lecture 06](./lectures/Lecture%2006/) ·
+[Special: SSL for NLP](./lectures/Lecture%2006.5%20-%20Special%20SSL%20for%20NLP/) ·
+[Lecture 07](./lectures/Lecture%2007/) ·
+[Lecture 08](./lectures/Lecture%2008/) ·
+[Lecture 09](./lectures/Lecture%2009/) ·
+[Lecture 10](./lectures/Lecture%2010/) ·
+[Lecture 11](./lectures/Lecture%2011/) ·
+[Lecture 12](./lectures/Lecture%2012/) ·
+[Lecture 13](./lectures/Lecture%2013/) ·
+[Lecture 14](./lectures/Lecture%2014/) ·
+[Lecture 15](./lectures/Lecture%2015/)
+
 ## 课程资料
 
 | Lecture | 日期 | 课程主题 | 本仓库讲义 |
