@@ -9,7 +9,7 @@
 
 ## 快速跳转
 
-**页面导航：** [课程资料](#课程资料) · [资料说明](#资料说明) · [Git LFS](#git-lfs) · [版权说明](#版权说明) · [致谢](#致谢)
+**页面导航：** [作业目录](#作业目录) · [课程资料](#课程资料) · [资料说明](#资料说明) · [Git LFS](#git-lfs) · [版权说明](#版权说明) · [致谢](#致谢)
 
 **讲义目录：**
 [Lecture 01](./lectures/Lecture%2001/) ·
@@ -28,6 +28,16 @@ Lecture 04（无课件） ·
 [Lecture 13](./lectures/Lecture%2013/) ·
 [Lecture 14](./lectures/Lecture%2014/) ·
 [Lecture 15](./lectures/Lecture%2015/)
+
+**作业入口：** [全部作业](./homeworks/) · [HW01：COVID-19 阳性率回归预测](./homeworks/HW01%20-%20COVID-19%20Regression/)
+
+## 作业目录
+
+课程作业统一收录在 [`homeworks/`](./homeworks/) 中，每份作业包含代码、数据、运行结果和复现说明。
+
+| 作业 | 主题 | 内容 |
+|---|---|---|
+| [HW01](./homeworks/HW01%20-%20COVID-19%20Regression/) | COVID-19 阳性率回归预测 | PyTorch notebook、训练/测试数据、提交结果、运行指标与结果图 |
 
 ## 课程资料
 
