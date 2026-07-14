@@ -8,6 +8,10 @@
 
 > 本仓库是个人学习归档，并非课程官方仓库。课程安排与资料版本请以课程主页为准。
 
+## 快速导航
+
+[2021 Spring 讲义目录](#2021-spring) · [2022 Spring 讲义目录](#2022-spring) · [2022 作业目录](#2022-作业目录) · [Git LFS](#git-lfs) · [版权说明](#版权说明)
+
 ## 目录结构
 
 ```text
@@ -62,13 +66,42 @@ Lecture 04（课程页无课件） ·
 
 **作业入口：** [2022 作业目录](./2022/homeworks/) · [HW01：COVID-19 Regression](./2022/homeworks/HW01%20-%20COVID-19%20Regression/)
 
+### 2022 Spring 课程目录
+
+| Lecture | 日期 | 课程主题 | 本仓库讲义 |
+|---|---:|---|---|
+| [Lecture 01](./2022/lectures/Lecture%2001/) | 02/18 | Introduction of Deep Learning | 课程介绍、规则、PyTorch、Colab、环境设置及 Regression 补充讲义 |
+| [Lecture 02](./2022/lectures/Lecture%2002/) | 02/25 | What to do if my network fails to train | Basic Theory |
+| [Lecture 03](./2022/lectures/Lecture%2003/) | 03/04 | Image as Input | Validation、Why Deep |
+| Lecture 04 | 03/11 | Sequence as Input | 课程页未提供 PDF / PPTX |
+| [Lecture 05](./2022/lectures/Lecture%2005/) | 03/18 | Sequence to Sequence | Self-attention / Transformer (`xformer`) |
+| [Lecture 06](./2022/lectures/Lecture%2006/) | 03/25 | Generation / Privacy for ML | GAN 补充材料 |
+| [Special: SSL for NLP](./2022/lectures/Lecture%2006.5%20-%20Special%20SSL%20for%20NLP/) | 04/01 | Recent Advance of Self-supervised Learning for NLP | PLM、BERT |
+| [Lecture 07](./2022/lectures/Lecture%2007/) | 04/15 | Self-supervised Learning for Speech and Image | SSL for Speech and Image |
+| [Lecture 08](./2022/lectures/Lecture%2008/) | 04/22 | Auto-encoder / Anomaly Detection | Auto-Encoder 补充材料 |
+| [Lecture 09](./2022/lectures/Lecture%2009/) | 04/29 | Explainable AI | Adversarial Attack for NLP、Explainable AI |
+| [Lecture 10](./2022/lectures/Lecture%2010/) | 05/06 | Attack | Adversarial Attack |
+| [Lecture 11](./2022/lectures/Lecture%2011/) | 05/13 | Adaptation | More Self-supervised Learning、Domain Adaptation |
+| [Lecture 12](./2022/lectures/Lecture%2012/) | 05/20 | Reinforcement Learning / Quantum ML | DRL 补充材料 |
+| [Lecture 13](./2022/lectures/Lecture%2013/) | 05/27 | Network Compression | Network Compression |
+| [Lecture 14](./2022/lectures/Lecture%2014/) | 06/03 | Life-long Learning | Life-long Learning |
+| [Lecture 15](./2022/lectures/Lecture%2015/) | 06/10 | Meta Learning | More about Meta Learning |
+
+## 2022 作业目录
+
+课程作业统一收录在 [`2022/homeworks/`](./2022/homeworks/) 中，每份已收录作业包含代码、数据、运行结果和复现说明。
+
+| 作业 | 主题 | 内容 |
+|---|---|---|
+| [HW01](./2022/homeworks/HW01%20-%20COVID-19%20Regression/) | COVID-19 Regression | PyTorch notebook、训练/测试数据、提交结果、运行指标与结果图 |
+
 ## Git LFS
 
 仓库中的 PPTX 大文件使用 Git LFS 管理。克隆前请安装 Git LFS：
 
 ```bash
 git lfs install
-git clone https://github.com/lizhuofan-curry/2022SpringLiHongYiML.git
+git clone https://github.com/lizhuofan-curry/LiHongYiML-2021-2022.git
 ```
 
 如果仓库已经克隆但大文件尚未下载，可在仓库目录执行 `git lfs pull`。
