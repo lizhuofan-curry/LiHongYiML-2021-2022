@@ -1,0 +1,8 @@
+{
+  "best_valid_accuracy": 0.7117908580251844,
+  "epochs": 10,
+  "concat_nframes": 19,
+  "input_dim": 741,
+  "num_classes": 41,
+  "test_predictions": 646268
+}

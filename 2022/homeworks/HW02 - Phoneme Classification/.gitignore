@@ -1,0 +1,6 @@
+libriphone/
+processed_hw2/
+best_model.pth
+submission.csv
+*.zip
+__pycache__/
