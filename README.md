@@ -64,7 +64,7 @@ Lecture 04（课程页无课件） ·
 [Lecture 14](./2022/lectures/Lecture%2014/) ·
 [Lecture 15](./2022/lectures/Lecture%2015/)
 
-**作业入口：** [2022 作业目录](./2022/homeworks/) · [HW01：COVID-19 Regression](./2022/homeworks/HW01%20-%20COVID-19%20Regression/)
+**作业入口：** [2022 作业目录](./2022/homeworks/) · [HW01：COVID-19 Regression](./2022/homeworks/HW01%20-%20COVID-19%20Regression/) · [HW02：Phoneme Classification](./2022/homeworks/HW02%20-%20Phoneme%20Classification/) · [HW03：Food Image Classification](./2022/homeworks/HW03%20-%20Food%20Image%20Classification/)
 
 ### 2022 Spring 课程目录
 
@@ -94,6 +94,8 @@ Lecture 04（课程页无课件） ·
 | 作业 | 主题 | 内容 |
 |---|---|---|
 | [HW01](./2022/homeworks/HW01%20-%20COVID-19%20Regression/) | COVID-19 Regression | PyTorch notebook、训练/测试数据、提交结果、运行指标与结果图 |
+| [HW02](./2022/homeworks/HW02%20-%20Phoneme%20Classification/) | Phoneme Classification | 训练与预测代码、数据集下载、逐 Epoch 指标和训练曲线 |
+| [HW03](./2022/homeworks/HW03%20-%20Food%20Image%20Classification/) | Food Image Classification | 11 类食物图像识别 Jupyter Notebook |
 
 ## Git LFS
 
